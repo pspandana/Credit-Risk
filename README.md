@@ -71,7 +71,3 @@ The credit risk assessment model uses Logistic Regression to predict the probabi
 ## Live Demo
 
 The application is deployed on Streamlit Cloud and can be accessed [here](https://credit-risk-pspandana.streamlit.app).
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
